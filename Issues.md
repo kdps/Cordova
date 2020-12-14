@@ -10,3 +10,9 @@ mWebView.postDelayed(new Runnable() {
     }
 }, 500);
 ```
+
+OR
+
+```java
+settings.setCacheMode(WebSettings.LOAD_NO_CACHE);
+```
