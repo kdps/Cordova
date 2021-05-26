@@ -16,3 +16,14 @@ OR
 ```java
 settings.setCacheMode(WebSettings.LOAD_NO_CACHE);
 ```
+
+
+
+### **The sandbox is not in sync with the Podfile.lock
+
+https://stackoverflow.com/questions/31738339/the-sandbox-is-not-in-sync-with-the-podfile-lock-ios
+
+adding 2 User-Defined settings to the Build Settings
+
+PODS_ROOT = ${SRCROOT}/Pods
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
