@@ -28,3 +28,8 @@ adding 2 User-Defined settings to the Build Settings
 PODS_ROOT = ${SRCROOT}/Pods
 
 PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+
+
+## Use of undeclared identifier 'FIRInstanceID'
+
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/FirebaseAnalytics/Frameworks" "${PODS_ROOT}/FirebaseInstanceID/Frameworks" "${PODS_ROOT}/GoogleAppMeasurement/Frameworks"
