@@ -1,6 +1,6 @@
 ### Disable Feature
 
-Doesn't not support, Cordova is fucking dumm ass
+Doesn't not support, Cordova is fucking dumb ass
 
 
 ### Android-webview-doesnt-load-html-sometimes
