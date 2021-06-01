@@ -42,4 +42,11 @@ PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
 
 First, You need to input 'use_frameworks!' in Podfile
 
+```Pod
+
+platform :ios, '11.0'
+
+use_frameworks!
+```
+
 FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/FirebaseAnalytics/Frameworks" "${PODS_ROOT}/FirebaseInstanceID/Frameworks" "${PODS_ROOT}/GoogleAppMeasurement/Frameworks"
