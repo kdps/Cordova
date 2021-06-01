@@ -1,3 +1,8 @@
+### Disable Feature
+
+Doesn't not support, Cordova is fucking sucks
+
+
 ### Android-webview-doesnt-load-html-sometimes
 
 https://stackoverflow.com/questions/37090396/android-webview-doesnt-load-html-sometimes
