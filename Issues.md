@@ -40,4 +40,6 @@ PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
 
 ## Use of undeclared identifier 'FIRInstanceID'
 
+First, You need to input 'use_frameworks!' in Podfile
+
 FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/FirebaseAnalytics/Frameworks" "${PODS_ROOT}/FirebaseInstanceID/Frameworks" "${PODS_ROOT}/GoogleAppMeasurement/Frameworks"
