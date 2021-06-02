@@ -1,3 +1,11 @@
+### CDV.h not found
+
+Project->Build Settings
+
+$(CORDOVALIB)/Classes recursive
+
+$(OBJROOT)/UninstalledProducts/$(PLATFORM_NAME)/include non-recursive
+
 ### Disable Feature
 
 Doesn't not support, because Cordova is fucking dumb ass
