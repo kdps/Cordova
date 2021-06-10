@@ -4,6 +4,8 @@ You gotted fuck
 
 Only solution is self suicide
 
+Don't use fucking piece of shit Cordova
+
 ### FUCKING target overrides the `LD_RUNPATH_SEARCH_PATHS` build setting defined
 
 Added $(inherited) to Runpath Search Paths (XCode/Build Settings/Linking)
