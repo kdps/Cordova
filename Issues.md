@@ -1,3 +1,7 @@
+### FUCKING target overrides the `LD_RUNPATH_SEARCH_PATHS` build setting defined
+
+Added $(inherited) to Runpath Search Paths (XCode/Build Settings/Linking)
+
 ### CDV.h not found
 
 Project->Build Settings
