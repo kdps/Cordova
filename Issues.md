@@ -1,3 +1,9 @@
+### Framework not found Protobuf
+
+You gotted fuck
+
+Only solution is self suicide
+
 ### FUCKING target overrides the `LD_RUNPATH_SEARCH_PATHS` build setting defined
 
 Added $(inherited) to Runpath Search Paths (XCode/Build Settings/Linking)
