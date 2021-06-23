@@ -1,3 +1,6 @@
+### Clear Fucking Pods
+
+pod deintegrate && pod cache clean --all
 
 ### Remove Fucking Piece of Shit DerivedData
 
