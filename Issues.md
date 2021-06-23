@@ -1,3 +1,6 @@
+
+### Remove Fucking Piece of Shit DerivedData
+
 rm -rf ~/Library/Developer/Xcode/DerivedData
 rm -rf ~/Library/Developer/Xcode/DerivedData
 rm -rf ~/Library/Developer/Xcode/DerivedData
