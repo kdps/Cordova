@@ -1,3 +1,9 @@
+### Cannot change launch screen image
+
+Cause Steven Jobs and Cook is Fucking god damn stupid asshole, Xdebug is Cook's asshole. You should clear cook's asshole before build
+
+Delete app -> Clean Build Folder -> Build
+
 ### Clear Fucking Pods
 
 pod deintegrate && pod cache clean --all
