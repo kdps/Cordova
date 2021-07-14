@@ -2,7 +2,7 @@
 
 Cause Steven Jobs and Cook is Fucking god damn stupid asshole, Xdebug is Cook's asshole. You should clear cook's asshole before build
 
-* Cook likes buried dung around asshole
+* Cook likes buried dung around asshole, so you should wipe buried dung.
 
 Delete app -> Clean Build Folder -> Build
 
