@@ -4,7 +4,11 @@ Cause Steven Jobs and Cook is Fucking god damn stupid asshole, Xdebug is Cook's 
 
 * Cook likes buried dung around asshole, so you should wipe buried dung.
 
-Delete app -> Clean Build Folder -> Build
+1. Reboot Fucking iPhone Device
+2. Restart Fucking Xcode
+3. rm -rf ~/Library/Developer/Xcode/DerivedData
+4. Delete app -> Clean Build Folder -> Build
+5. Kill Steven Jobs
 
 ### Clear Fucking Pods
 
