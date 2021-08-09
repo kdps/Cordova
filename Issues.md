@@ -10,6 +10,15 @@ Cause Steven Jobs and Cook is Fucking god damn stupid asshole, Xdebug is Cook's 
 4. Delete app -> Clean Build Folder -> Build
 5. Kill Steven Jobs
 
+### Unescape Unsafe Scheme in AngularJS
+
+```JS
+phonecatApp.config(function( $compileProvider ) {   
+    $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|cust-scheme):/);
+    $compileProvider.imgSrcSanitizationWhitelist(/^\s*(https?|cust-scheme):/);
+}
+```
+
 ### Clear Fucking Pods
 
 pod deintegrate && pod cache clean --all
