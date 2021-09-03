@@ -1,3 +1,7 @@
+### Undefined symbols for architecture x86_64: "_OBJC_CLASS_$_JSContext"
+
+Add the 'JavascriptCore.framework' framework 
+
 ### Cannot change launch screen image
 
 Cause Steven Jobs and Cook is Fucking god damn stupid asshole, Xdebug is Cook's asshole. You should clear cook's asshole before build
