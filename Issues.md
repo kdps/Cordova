@@ -63,7 +63,7 @@ $(OBJROOT)/UninstalledProducts/$(PLATFORM_NAME)/include non-recursive
 
 ### Disable Feature
 
-Doesn't not support, because Cordova is fucking dumb ass
+Doesn't support, because Cordova is fucking dumb ass
 
 Just reinstall fucking motherless platform
 
