@@ -1,8 +1,11 @@
 ### Clear Data
 
 rm -rf ~/Library/Developer/Xcode/DerivedData
+
 rm -rf ~/Library/Developer/Xcode/Archives 
+
 rm -rf ~/Library/Developer/Xcode/iOS Device Logs
+
 rm -rf ~/Library/Developer/Xcode/iOS DeviceSupport
 
 ### Undefined symbols for architecture x86_64: "_OBJC_CLASS_$_JSContext"
